@@ -1,0 +1,188 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Esta herramienta es ampliamente utilizada para automatizar pruebas funcionales. ¿Cuál es el nombre de la herramienta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jenkins"
+        },
+        {
+          "id": 2,
+          "answer": "Selenium"
+        },
+        {
+          "id": 3,
+          "answer": "Jira"
+        },
+        {
+          "id": 4,
+          "answer": "Git"
+        }
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el nombre de la prueba que se realiza para evaluar la usabilidad del software?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Prueba de regresión"
+        },
+        {
+          "id": 2,
+          "answer": "Prueba de caja negra"
+        },
+        {
+          "id": 3,
+          "answer": "Prueba de caja blanca"
+        },
+        {
+          "id": 4,
+          "answer": "Prueba de usabilidad"
+        }
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál de las siguientes opciones mejor describe el propósito de una prueba de caja negra en el contexto del software testing?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evaluar la usabilidad del software"
+        },
+        {
+          "id": 2,
+          "answer": "Probar el código fuente del software"
+        },
+        {
+          "id": 3,
+          "answer": "Verificar la funcionalidad del software sin conocer su implementación interna"
+        },
+        {
+          "id": 4,
+          "answer": "Examinar la estructura interna del software"
+        }
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "¿Qué tipo de prueba se realiza para garantizar que una nueva versión del software no ha introducido errores en las funcionalidades existentes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Prueba de rendimiento"
+        },
+        {
+          "id": 2,
+          "answer": "Prueba de regresión"
+        },
+        {
+          "id": 3,
+          "answer": "Prueba de usabilidad"
+        },
+        {
+          "id": 4,
+          "answer": "Prueba de caja negra"
+        }
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Qué método de prueba se utiliza para verificar si el software puede manejar una carga de trabajo determinada sin degradación en el rendimiento?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Prueba de rendimiento"
+        },
+        {
+          "id": 2,
+          "answer": "Prueba de caja negra"
+        },
+        {
+          "id": 3,
+          "answer": "Prueba de caja blanca"
+        },
+        {
+          "id": 4,
+          "answer": "Prueba de usabilidad"
+        }
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál de las siguientes NO es una etapa típica del ciclo de vida del testing de software?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Recolección de requisitos"
+        },
+        {
+          "id": 2,
+          "answer": "Planificación de pruebas"
+        },
+        {
+          "id": 3,
+          "answer": "Diseño de software"
+        },
+        {
+          "id": 4,
+          "answer": "Ejecución de pruebas"
+        }
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál de los siguientes NO es un rol común en el campo del Control de Calidad (QA) en el desarrollo de software?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ingeniero de Pruebas (Tester)"
+        },
+        {
+          "id": 2,
+          "answer": "Líder de Equipo de Pruebas (Test Lead)"
+        },
+        {
+          "id": 3,
+          "answer": "Gerente de Control de Calidad (QA Manager)"
+        },
+        {
+          "id": 4,
+          "answer": "Diseñador Gráfico"
+        }
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 8,
+      "question": "Según el curso, ¿a cuál de las siguientes plataformas se refiere como una ruta de aprendizaje no estructurada para Convertirse en QA?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "LinkedIn"
+        },
+        {
+          "id": 2,
+          "answer": "Udemy"
+        },
+        {
+          "id": 3,
+          "answer": "YouTube"
+        },
+        {
+          "id": 4,
+          "answer": "Platzi"
+        }
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}
