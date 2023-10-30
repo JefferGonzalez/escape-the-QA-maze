@@ -111,6 +111,25 @@ function App () {
       <h1>Escape the QA Maze</h1>
       <button onClick={restartGame}>Restart</button>
 
+      <div className="legend">
+        <div className="legend-item">
+          <div className="maze-cell start"></div>
+          <span>Start</span>
+        </div>
+        <div className="legend-item">
+          <div className="maze-cell exit"></div>
+          <span>Exit</span>
+        </div>
+        <div className="legend-item">
+          <div className="maze-cell player"></div>
+          <span>Player</span>
+        </div>
+        <div className="legend-item">
+          <div className="maze-cell wall"></div>
+          <span>Wall</span>
+        </div>
+      </div>
+
       <p>Use the arrow keys to move the player to the exit.</p>
 
       {

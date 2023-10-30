@@ -141,6 +141,20 @@ dialog {
   border-radius: 50%;
 }
 
+/* Estilo de la leyenda */
+.legend {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.5em;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
 /* Estilo de la ventana modal */
 .modal-background {
   position: fixed;
