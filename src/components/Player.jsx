@@ -1,5 +1,5 @@
 const Player = () => {
-  return <div className="player"></div>;
+  return <div className="player" />
 };
 
 export default Player;

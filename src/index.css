@@ -117,7 +117,6 @@ dialog {
 .maze-cell {
   width: 30px;
   height: 30px;
-  border: 1px solid #000;
   background-color: #333;
 }
 
@@ -138,10 +137,15 @@ dialog {
 
 /* Estilo del jugador */
 .player {
-  width: 30px;
-  height: 30px;
+  width: 24px;
+  height: 24px;
   background-color: #f00;
   border-radius: 50%;
+  margin: 4px;
+}
+
+.maze-cell.player {
+  margin: auto;
 }
 
 /* Estilo de la leyenda */
